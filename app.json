@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "surprised-indigo-crackers",
+    "slug": "snack-de1fcfe5-d4fd-4d37-9bdc-1a3283903c7c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.snackde1fcfe5d4fd4d379bdc1a3283903c7c"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
